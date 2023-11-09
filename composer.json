@@ -15,7 +15,7 @@
     "source": "https://github.com/workbunny/webman-rabbitmq"
   },
   "require": {
-    "php": ">=7.4",
+    "php": ">=7.3",
     "workerman/rabbitmq": "^1.0",
     "webman/console": "^1.0"
   },
